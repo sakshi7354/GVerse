@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(31, 112, 112);
+}
+.k1{
+    color:#fff;
+}
+.say{
+    font-size:40px;
+    /* background-color: rgb(139, 202, 148); */
+}
+.hey{
+    
+    padding:250px 600px; 
+    border: 20px;
+}
+ul{
+    display:contents;
+   
+
+}
+ul li{
+    list-style-type: none;
+    padding:0 17px;
+    font-size:33px;
+}
+ul li a{
+    /* color: white; */
+    text-decoration:none;
+}
+ul>li> a:hover{
+color: rgb(111, 91, 143);
+}
